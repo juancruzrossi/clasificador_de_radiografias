@@ -1,0 +1,3 @@
+Drive con multiples radiografias para entrenar el modelo:
+
+https://drive.google.com/drive/folders/1JNn0v0dF96vRrc0Gv6INZtpIa98r3zKH?usp=sharing
